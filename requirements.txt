@@ -1,0 +1,10 @@
+yfinance
+pandas
+matplotlib
+seaborn
+plotly
+dash
+folium
+beautifulsoup4
+requests
+scikit-learn
